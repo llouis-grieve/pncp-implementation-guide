@@ -102,7 +102,7 @@ URL to access Production environment are like <https://trust-api.gireve.com/...>
 
 ## 2.6 Communication partner and operator
 
-
+![Communication partner and operator diagram](./images/media/image2.png)
 
 ### 2.6.1 Communication partner
 
