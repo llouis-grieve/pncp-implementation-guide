@@ -1,3 +1,5 @@
+![Gireve Logo](./images/media/image1.png)
+
 # 1. Introduction
 
 Gireve Trust Platform is a Plug and Charge ecosystem that facilitates the deployment of ISO‑15118 and Plug and Charge by enabling the actors of the ISO‑15118 protocol value chain to generate and manage digital certificates. It simplifies the experience of EV market players while providing a high level of security.  
